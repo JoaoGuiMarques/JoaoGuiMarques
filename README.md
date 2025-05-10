@@ -9,7 +9,7 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yasmngoncalves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/JoaoGuiMarques?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yasmngoncalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="www.linkedin.com/in/joaoguimarques" target="_blank">
+  <a href="https://www.linkedin.com/in/joaoguimarques" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_.joao_marques/" target="_blank">
